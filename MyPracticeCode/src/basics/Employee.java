@@ -2,6 +2,8 @@ package basics;
 
 public class Employee {
 	
+	
+	// Example of a Java bean class
 	private String Name;
 	private int Eid;
 	private double salary;
